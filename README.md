@@ -10,8 +10,9 @@ to play the classic game of Tic Tac Toe.
 
 ## Project Glimpse
 
-https://github.com/anuragsharmark/TicTacToe/assets/72140902/5d01dcfa-1a97-4372-9460-9e1faa3cb698
-
+<div align="center">
+  <video src="https://github.com/anuragsharmark/TicTacToe/assets/72140902/5d01dcfa-1a97-4372-9460-9e1faa3cb698" width=400/>
+</div>
 
 
 ## Installation
@@ -34,14 +35,4 @@ https://github.com/anuragsharmark/TicTacToe/assets/72140902/5d01dcfa-1a97-4372-9
     flutter run
     ```
 2. **Once the app is running, you can start playing Tic Tac Toe by following the on-screen instructions**.
-
-## Contributing
-Contributions are welcome! Here's how you can contribute to this project:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/improvement`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature/improvement`).
-6. Create a new Pull Request.
-
 
